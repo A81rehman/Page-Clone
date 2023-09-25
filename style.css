@@ -1,185 +1,213 @@
 .body1 {
-    width: 375px;
-    height: 718px;
-    background-color: rgb(224, 224, 224);
-    overflow: hidden;
+  width: 375px;
+  height: 718px;
+  background-color: rgb(224, 224, 224);
+  overflow: hidden;
 }
+
 .body2 {
-    width: 375px;
-    height: 718px;
-    border-bottom-left-radius: 80px;
-    background-color: #ffffff;
-    overflow: hidden;
+  width: 375px;
+  height: 718px;
+  border-bottom-left-radius: 80px;
+  background-color: #fff;
+  overflow: hidden;
 }
+
 .topbar {
-    width: 375px;
-    height: 44px;
-    display: inline-flex;
-    justify-content: space-between;
-    margin-top: 10px;
+  width: 375px;
+  height: 44px;
+  display: inline-flex;
+  justify-content: space-between;
+  margin-top: 10px;
 }
+
 .time {
-    width: 54px;
-    height: 16px;
-    margin-left: 5px;
+  width: 54px;
+  height: 16px;
+  margin-left: 5px;
 }
+
 .topbaricon {
-    width: 66.662px;
-    height: 11.336px;
-    margin-right: 10px;
+  width: 66.662px;
+  height: 11.336px;
+  margin-right: 10px;
 }
+
 .head {
-    display: flex;
-    width: 375px;
-    height: 48px;
-    justify-content: space-between;
+  display: flex;
+  width: 375px;
+  height: 48px;
+  justify-content: space-between;
 }
+
 .headline {
-    display:flex;
-    padding: 114px 24px;
-    flex-direction: column;
-    gap: 20px;
+  display: flex;
+  padding: 114px 24px;
+  flex-direction: column;
+  gap: 20px;
 }
+
 h1 {
-    color: #6070FF;
-    text-align: center;
-    font-family: Poppins;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 20px;
+  color: #6070ff;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 20px;
 }
+
 .logobox {
-    display: flex;
-    padding: 0px 10px;
-    align-items: center;
+  display: flex;
+  padding: 0 10px;
+  align-items: center;
 }
+
 .iconbox {
-    display: flex;
-    padding: 8px;
-    margin-right: 13px;
-    border-radius: 8px;
-    margin-top: 3px;
+  display: flex;
+  padding: 8px;
+  margin-right: 13px;
+  border-radius: 8px;
+  margin-top: 3px;
 }
+
 .headline1 {
-    width: 327px;
-    height: 150px;
-    justify-content: center;
-    margin-top: -103px;
+  width: 327px;
+  height: 150px;
+  justify-content: center;
+  margin-top: -103px;
 }
+
 h2 {
-    color:#172B4D;
-    font-family: Poppins;
-    font-size: 40px;
-    font-weight: 700;
-    line-height: 52px;
+  color: #172b4d;
+  font-family: 'Poppins', sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 52px;
 }
+
 .headline2 {
-    width: 327px;
-    height: 146px;
-    margin-top: 10px;
+  width: 327px;
+  height: 146px;
+  margin-top: 10px;
 }
+
 p {
-    color: #344563;
-    font-family: Poppins;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 24px;
+  color: #344563;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
 }
+
 .headline3 {
-    color:  #7F8CFF;
-    font-family: Poppins;
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 24px;
+  color: #7f8cff;
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
 }
+
 .headline4 {
-    width: 170.167px;
-    height: 20px;
-    margin-top: -33px;
+  width: 170.167px;
+  height: 20px;
+  margin-top: -33px;
 }
+
 .ellipse3 {
-    width: 105px;
-    height: 105px;
-    margin-left: 275px;
-    margin-top: -28px;
+  width: 105px;
+  height: 105px;
+  margin-left: 275px;
+  margin-top: -28px;
 }
+
 .ellipse4 {
-    width: 20px;
-    height: 20px;
-    margin-top: -30px;
-    margin-left: 215px;
+  width: 20px;
+  height: 20px;
+  margin-top: -30px;
+  margin-left: 215px;
 }
+
 .ellipse5 {
-    width: 11px;
-    height: 10px;
-    margin-top: -24px;
-    margin-left: 101px;
+  width: 11px;
+  height: 10px;
+  margin-top: -24px;
+  margin-left: 101px;
 }
+
 .ellipse8 {
-    width: 15px;
-    height: 15px;
-    margin-top: -68px;
-    margin-left: 195px;
+  width: 15px;
+  height: 15px;
+  margin-top: -68px;
+  margin-left: 195px;
 }
+
 .ellipse11 {
-    width: 38.503px;
-    height: 19.252px;
-    margin-top: -25px;
-    margin-left: -40px;
+  width: 38.503px;
+  height: 19.252px;
+  margin-top: -25px;
+  margin-left: -40px;
 }
+
 .ellipse12 {
-    width: 24.142px;
-    height: 12.071px;
-    margin-left: 300px;
-    margin-top: -36px;
+  width: 24.142px;
+  height: 12.071px;
+  margin-left: 300px;
+  margin-top: -36px;
 }
+
 .ellipse13 {
-    width: 30.099px;
-    height: 30.099px;
-    margin-top: -24px;
-    margin-left: 290px;
+  width: 30.099px;
+  height: 30.099px;
+  margin-top: -24px;
+  margin-left: 290px;
 }
+
 .ellipse14 {
-    width: 11px;
-    height: 11;
-    margin-left: 268px;
-    margin-top: -25px;
+  width: 11px;
+  height: 11;
+  margin-left: 268px;
+  margin-top: -25px;
 }
+
 .ellipse15 {
-    width: 15px;
-    height: 15px;
-    margin-top: 40px;
-    margin-left: 30px;
+  width: 15px;
+  height: 15px;
+  margin-top: 40px;
+  margin-left: 30px;
 }
+
 .rectangle4 {
-    width: 95.58px;
-    height: 22.021px;
-    transform: rotate(-30deg);
-    background-color: #EBEBFF;
-    margin-left: 275px;
-    margin-top: -22px;
+  width: 95.58px;
+  height: 22.021px;
+  transform: rotate(-30deg);
+  background-color: #ebebff;
+  margin-left: 275px;
+  margin-top: -22px;
 }
+
 .rectangle5 {
-    width: 68.063px;
-    height: 12.176px;
-    transform: rotate(23.34deg);
-    background-color: #EBEBFF;
-    margin-left: 166px;
-    margin-top: -31px;
+  width: 68.063px;
+  height: 12.176px;
+  transform: rotate(23.34deg);
+  background-color: #ebebff;
+  margin-left: 166px;
+  margin-top: -31px;
 }
+
 .rectangle6 {
-    width: 51.99px;
-    height: 9.301px;
-    transform: rotate(-46.142deg);
-    background-color:#EBEBFF;
-    margin-top: -80px;
-    margin-left: -62px;
+  width: 51.99px;
+  height: 9.301px;
+  transform: rotate(-46.142deg);
+  background-color: #ebebff;
+  margin-top: -80px;
+  margin-left: -62px;
 }
-.rectangle7{
-    width: 26.462px;
-    height: 4.734px;
-    transform: rotate(40.767deg);
-    background-color:#6070FF;
-    margin-top: -15px;
-    margin-left: 100px;
+
+.rectangle7 {
+  width: 26.462px;
+  height: 4.734px;
+  transform: rotate(40.767deg);
+  background-color: #6070ff;
+  margin-top: -15px;
+  margin-left: 100px;
 }
